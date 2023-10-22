@@ -19,7 +19,7 @@ const Statistics = data => {
         );
       })}
       <li>
-        <p>Total:{countTotalFeedback(data.data)}</p>
+        <p>Total: {countTotalFeedback(data.data)}</p>
       </li>
       <li>
         <p>
