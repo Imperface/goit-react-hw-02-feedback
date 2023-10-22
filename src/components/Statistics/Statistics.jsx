@@ -23,7 +23,7 @@ const Statistics = data => {
       </li>
       <li>
         <p>
-          Positive Feedback:
+          Positive Feedback:{' '}
           {countFeedbackPercentage(selectStatPercentage, data.data)}%
         </p>
       </li>
